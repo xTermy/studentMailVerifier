@@ -26,7 +26,7 @@ Install through Composer.
 
 ```json
 "require": {
-    "stormcode/studentMailVerifier": "1.0"
+    "stormcode/swotphp": "1.0"
 }
 ```
 
